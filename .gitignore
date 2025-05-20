@@ -435,7 +435,7 @@ logs/
 *.sqlite3
 
 # Data files
-*.csv
+# *.csv
 *.h5
 *.parquet
 *.feather
@@ -551,7 +551,7 @@ Thumbs.db
 *.ods
 
 # Ignore CSV files
-*.csv
+# *.csv
 
 # Ignore text files
 *.txt
@@ -638,7 +638,7 @@ Thumbs.db
 **/images/
 
 # Data Files
-**/*.csv
+# **/*.csv
 **/*.tsv
 **/*.txt
 **/*.xls
@@ -698,7 +698,7 @@ Thumbs.db
 **/*.err
 
 # Data and models
-**/*.csv
+# **/*.csv
 **/*.tsv
 **/*.zip
 **/*.tar.gz
